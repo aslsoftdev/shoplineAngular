@@ -90,7 +90,15 @@
               }
             ],
             "styles": [
-              "src/styles.css"
+              "src/assets/css/4rZPud13Onzy.css",
+              "src/assets/css/a79ifjv8Lstn.css",
+              "src/assets/css/Bb1PLnT4yEr5.css",
+              "src/assets/css/bootstrap-select.min.css",
+              "src/assets/css/cGeD82FogdMk.css",
+              "src/assets/css/L8t3Hnrc8BjP.css",
+              "src/assets/css/M7ht0HewlkxD.css",
+              "src/assets/css/V0X0RXSLMswr.css",
+              "src/assets/css/vlpUb6VtQBF8.css"
             ],
             "scripts": []
           }
