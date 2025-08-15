@@ -3978,7 +3978,7 @@ header.header-bg {
 }
 
 .flat-testimonial-bg-1 {
-  background-image: url(../images/9orSYRQP0ZUF.jpg);
+  background-image: url(/assets/images/9orSYRQP0ZUF.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4571,7 +4571,7 @@ header.header-bg {
   height: 565px;
   padding-top: 112px;
   padding-left: 92px;
-  background-image: url(../images/65bZ2uxZVAsK.jpg);
+  background-image: url(/assets/images/65bZ2uxZVAsK.jpg);
 }
 .wrap-form-newlleter .form-newlleter {
   background-color: var(--white);
@@ -6285,7 +6285,7 @@ header.header-bg {
 
 .offcanvas-backdrop {
   background-color: var(--backdrop);
-  cursor: url("../images/Eha72myPRUJV.svg"), auto;
+  cursor: url("/assets/images/Eha72myPRUJV.svg"), auto;
 }
 .offcanvas-backdrop.show {
   opacity: 1;
@@ -6304,7 +6304,7 @@ header.header-bg {
 }
 
 .modal {
-  cursor: url("../images/Eha72myPRUJV.svg"), auto;
+  cursor: url("/assets/images/Eha72myPRUJV.svg"), auto;
 }
 .modal.show .modal-dialog {
   transform: none;
@@ -11847,7 +11847,7 @@ blockquote .text {
 
 .tf-page-title {
   padding: 69px 0 65px;
-  background-image: url(../images/7DeY3e50EkvH.png);
+  background-image: url(/assets/images/7DeY3e50EkvH.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

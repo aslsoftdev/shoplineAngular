@@ -3978,7 +3978,7 @@ header.header-bg {
 }
 
 .flat-testimonial-bg-1 {
-  background-image: url(../images/yag0xcTYC1jM.jpg);
+  background-image: url(/assets/images/yag0xcTYC1jM.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4571,7 +4571,7 @@ header.header-bg {
   height: 565px;
   padding-top: 112px;
   padding-left: 92px;
-  background-image: url(../images/t7HaDSV7izwh.jpg);
+  background-image: url(/assets/images/t7HaDSV7izwh.jpg);
 }
 .wrap-form-newlleter .form-newlleter {
   background-color: var(--white);
@@ -6285,7 +6285,7 @@ header.header-bg {
 
 .offcanvas-backdrop {
   background-color: var(--backdrop);
-  cursor: url("../images/cCRtA0256xDT.svg"), auto;
+  cursor: url("/assets/images/cCRtA0256xDT.svg"), auto;
 }
 .offcanvas-backdrop.show {
   opacity: 1;
@@ -6304,7 +6304,7 @@ header.header-bg {
 }
 
 .modal {
-  cursor: url("../images/cCRtA0256xDT.svg"), auto;
+  cursor: url("/assets/images/cCRtA0256xDT.svg"), auto;
 }
 .modal.show .modal-dialog {
   transform: none;
@@ -11847,7 +11847,7 @@ blockquote .text {
 
 .tf-page-title {
   padding: 69px 0 65px;
-  background-image: url(../images/GrwabKc0TaSv.png);
+  background-image: url(/assets/images/GrwabKc0TaSv.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
