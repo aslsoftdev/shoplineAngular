@@ -3978,7 +3978,7 @@ header.header-bg {
 }
 
 .flat-testimonial-bg-1 {
-  background-image: url(../images/ZoDDV87G7Tqf.jpg);
+  background-image: url(/assets/images/ZoDDV87G7Tqf.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4571,7 +4571,7 @@ header.header-bg {
   height: 565px;
   padding-top: 112px;
   padding-left: 92px;
-  background-image: url(../images/zgqIPiXX1Z3k.jpg);
+  background-image: url(/assets/images/zgqIPiXX1Z3k.jpg);
 }
 .wrap-form-newlleter .form-newlleter {
   background-color: var(--white);
@@ -6285,7 +6285,7 @@ header.header-bg {
 
 .offcanvas-backdrop {
   background-color: var(--backdrop);
-  cursor: url("../images/3M0fhRbdNdIS.svg"), auto;
+  cursor: url("/assets/images/3M0fhRbdNdIS.svg"), auto;
 }
 .offcanvas-backdrop.show {
   opacity: 1;
@@ -6304,7 +6304,7 @@ header.header-bg {
 }
 
 .modal {
-  cursor: url("../images/3M0fhRbdNdIS.svg"), auto;
+  cursor: url("/assets/images/3M0fhRbdNdIS.svg"), auto;
 }
 .modal.show .modal-dialog {
   transform: none;
@@ -11847,7 +11847,7 @@ blockquote .text {
 
 .tf-page-title {
   padding: 69px 0 65px;
-  background-image: url(../images/QrbvqXURDLUO.png);
+  background-image: url(/assets/images/QrbvqXURDLUO.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
