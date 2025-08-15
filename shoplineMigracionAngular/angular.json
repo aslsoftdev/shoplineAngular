@@ -19,6 +19,7 @@
             "polyfills": [
               "zone.js"
             ],
+            "baseHref": "/testings/shopline/",
             "tsConfig": "tsconfig.app.json",
             "assets": [
               {
@@ -147,8 +148,7 @@
               "src/assets/css/store/UAMWZDZyZDbu.css",
               "src/assets/css/store/WLIl8YPUotIL.css"
 
-            ],
-            "scripts": []
+            ]
           },
           "configurations": {
             "production": {
@@ -204,15 +204,7 @@
               }
             ],
             "styles": [
-              "src/assets/css/4rZPud13Onzy.css",
-              "src/assets/css/a79ifjv8Lstn.css",
-              "src/assets/css/Bb1PLnT4yEr5.css",
-              "src/assets/css/bootstrap-select.min.css",
-              "src/assets/css/cGeD82FogdMk.css",
-              "src/assets/css/L8t3Hnrc8BjP.css", 
-              "src/assets/css/M7ht0HewlkxD.css",
-              "src/assets/css/V0X0RXSLMswr.css",
-              "src/assets/css/vlpUb6VtQBF8.css"
+               "src/styles.css"
             ],
             "scripts": []
           }
